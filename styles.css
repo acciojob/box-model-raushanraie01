@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 
-.main{
+.container{
 	height:200px;
 	width:90vw;
 	display:flex;
@@ -12,19 +12,19 @@
 	align-items:center;
 }
 
-.box1{
+.green{
 	border-radius:50%;
 	background-color:green;
 	width:20%;
 	height:50%
 }
-.box2{
+.yellow{
 	border-radius:50%;
 	background-color:yellow;
 	width:20%;
 	height:50%
 }
-.box3{
+.red{
 	border-radius:50%;
 	background-color:red;
 	width:20%;
